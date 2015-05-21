@@ -1,4 +1,4 @@
-# A wrapper of MySQLdb
+# A small wrapper of MySQLdb
 
 ###Usage:
 
